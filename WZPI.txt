@@ -4,3 +4,5 @@ WZPI test
 WERSJA GŁÓWNA PLIKU
 
 	PODWERSJA PLIKU
+	
+	Zmiana 1
