@@ -1,4 +1,6 @@
-
+﻿
 WZPI test
 
 WERSJA GŁÓWNA PLIKU
+
+ZMIANA WERSJI GŁÓWNEJ
