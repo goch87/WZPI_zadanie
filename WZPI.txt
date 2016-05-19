@@ -6,3 +6,5 @@ WERSJA GŁÓWNA PLIKU
 	PODWERSJA PLIKU
 	
 	Zmiana 1
+	
+	Zmiana 2
